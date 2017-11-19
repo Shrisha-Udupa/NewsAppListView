@@ -1,3 +1,7 @@
+Newsapp
+
+This news app fetches the latest articles from the Times of India.
+
 To build this project, you will need to apply for your own api key from https://newsapi.org/
 
 When you receive your API key from newsapi.org, add the following attribute to your gradle.properties file using this format
